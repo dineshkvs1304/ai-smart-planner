@@ -150,5 +150,4 @@ npm start
 ---
 
 ## Author
-Kandyan Venkata Sai Dinesh  
-Associate Software Engineer Applicant
+Kandyana Venkata Sai Dinesh  

@@ -132,14 +132,18 @@ ai-smart-planner
 ### Backend
 
 cd backend
+
 pip install flask flask-cors
+
 python app.py
 
 
 ### Frontend
 
 cd frontend
+
 npm install
+
 npm start
 
 
